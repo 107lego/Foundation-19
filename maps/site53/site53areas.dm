@@ -887,7 +887,19 @@
 	name = "\improper SCP-247 Observation"
 	icon_state = "research"
 	area_flags = AREA_FLAG_RAD_SHIELDED
+/* TO BE ADDED LATER
+/area/site53/uhcz/scp1507observation
+	name = "\improper SCP-1507 Observation"
+	icon_state = "research"
+	area_flags = AREA_FLAG_RAD_SHIELDED
 
+/area/site53/uhcz/scp1507containment
+	name = "\improper SCP-1507 Containment Chamber"
+	icon_state = "research"
+	area_flags = AREA_FLAG_RAD_SHIELDED
+	requires_power = 0
+	dynamic_lighting = 0
+*/
 /area/site53/lhcz/scp049containment
 	name = "\improper SCP-049 Containment Chamber"
 	icon_state = "research"
